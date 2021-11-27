@@ -60,6 +60,9 @@ public class OrderQueue
         }
         s+="\n\n";
         return s;
+        /*
+        JOptionPane.showMessageDialog(null, s, "Order");
+        */
     }
 //    public String getOrderReadyforPickup()
 //    {
